@@ -29,11 +29,13 @@ h3 {
 #about {
   font-family: "Montserrat";
   padding: 5% 10%;
+  justify-content: center;
 }
 
 #contact {
   font-family: "Montserrat";
   padding: 5% 10%;
+  justify-content: center;
 }
 
 /* navbar */
